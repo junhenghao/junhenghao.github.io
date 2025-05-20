@@ -2,11 +2,13 @@ title: Junheng Hao
 author: Junheng Hao
 email: junhenghao@microsoft.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Let's teach AI with AI!
+  "Let's teach AI with AI!"
+
+  © Copyright 2025 Junheng Hao. Last updated: Apr 02, 2025.
 
 # social links
 linkedin_username: jhaoucla
-twitter_username: Jeff_haojh
+# twitter_username: Jeff_haojh
 # github_username:  jekyll
 # rss: rss
 # dribbble_username: jekyll
@@ -34,8 +36,12 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
+header_pages:
+- about.html
+- publication.md
+# - project.md
+- teaching.md
+- cv.md
 
 # Build settings
 theme: minima
