@@ -10,7 +10,7 @@ title: Junheng Hao
 ---
 <img src="/assets/img/newself.jpg" alt="Profile Picture" width="200">
 
-I am currently a researcher at Microsoft GenAI, working on LLM (Phi-3, GPT) training and customization. Prior to this, I obtained my Ph.D from University of California, Los Angeles, advised by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](https://web.cs.ucla.edu/~weiwang/) at [Scalable Analytics Institute (ScAi)](https://scai.cs.ucla.edu/) and [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/index.html) in Department of Computer Science. Before coming to UCLA, I graduated in 2017 from Department of Automation, School of Information Science and Technology, Tsinghua University.
+I am currently a researcher at Microsoft, working on LLM ([Phi-3](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/4225280),[Phi-4-mini](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family/), GPT, etc) training and customization. Prior to this, I obtained my Ph.D from University of California Los Angeles (UCLA), advised by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](https://web.cs.ucla.edu/~weiwang/) at [Scalable Analytics Institute (ScAi)](https://scai.cs.ucla.edu/) and [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/index.html) in Department of Computer Science. Before coming to UCLA, I graduated in 2017 from Department of [Automation](https://www.au.tsinghua.edu.cn/), School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 <!-- <p>You can find more information about my <a href="/publication/">publications</a> and <a href="/teaching/">projects</a>.  -->
 
@@ -44,7 +44,5 @@ Check full list here at [Publications](https://junhenghao.github.io/publication)
 * **Junheng Hao**, Muhao Chen, Wenchao Yu, Yizhou Sun, Wei Wang. "[Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](https://dl.acm.org/citation.cfm?id=3330838)". In the 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019.
 
 ## Contact
-[Linkedin](https://www.linkedin.com/in/jhaoucla/)
-junhenghao@microsoft.com
-haojh.ucla@gmail.com (Personal)
+Email: junhenghao@microsoft.com (Microsoft) haojh.ucla@gmail.com (Personal)
 <!-- <p>Feel free to <a href="/contact/">contact me</a>.</p> -->

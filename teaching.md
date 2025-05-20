@@ -12,5 +12,5 @@ title: Teaching
 - **\[Fall 2018\]** [CS145](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/index.html): Introduction to Data Mining (Instructor: [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/index.html)).  <span>&#8618;</span> [Discussion Page (Archived)](https://www.haojunheng.com/teaching/cs145-fall18/)
 
 # Students Mentored
-- Yubo Ma, Research Intern at Microsoft (Now: PhD Candidate at Nanyang Technological University)
-- Jingyu Shen, Master Student at UCLA (Now: Meta)
+- [Yubo Ma](), Research Intern at Microsoft (Now: PhD Candidate at Nanyang Technological University)
+- [Jingyu Shen](https://www.linkedin.com/in/jingyue-brian-shen/), Master Student at UCLA (Now: Meta)
