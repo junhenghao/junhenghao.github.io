@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Junheng Hao
+title: CS M146 (Winter 2021) Discussion Materials
 ---
 
+# CS M146 (Winter 2021) Discussion Materials
 <span style="color:red"> **Note: This course is no longer updated since March 19, 2021. Slides for my discussion sessions are still publicly available in this webpage.** </span>
 
 
