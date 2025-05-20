@@ -10,8 +10,7 @@ title: Junheng Hao
 ---
 <img src="/assets/img/newself.jpg" alt="Profile Picture" width="200">
 
-<p>I am currently a researcher at Microsoft GenAI. I obtained my Ph.D from University of California, Los Angeles, advised by Yizhou Sun and Wei Wang at Scalable Analytics Institute (ScAi), Department of Computer Science and UCLA Data Mining Lab. Before coming to UCLA, I graduated in 2017 from Department of Automation, School of Information Science and Technology, Tsinghua University.</p>
-
+I am currently a researcher at Microsoft GenAI, working on LLM (Phi-3, GPT) training and customization. Prior to this, I obtained my Ph.D from University of California, Los Angeles, advised by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](https://web.cs.ucla.edu/~weiwang/) at [Scalable Analytics Institute (ScAi)](https://scai.cs.ucla.edu/) and [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/index.html) in Department of Computer Science. Before coming to UCLA, I graduated in 2017 from Department of Automation, School of Information Science and Technology, Tsinghua University.
 
 <!-- <p>You can find more information about my <a href="/publication/">publications</a> and <a href="/teaching/">projects</a>.  -->
 
@@ -23,7 +22,7 @@ title: Junheng Hao
 * Reseacher, **Microsoft GenAI**, Oct 2022 - Present
 * Research Intern, **Microsoft Research (MSR)**, Jun 2021 - Sep 2021
 * PhD Research Intern, **IBM Research AI**, Jun 2020 - Sep 2020
-* Applied Scientist Intern, **Amazon***, Jun 2019 - Dec 2019
+* Applied Scientist Intern, **Amazon**, Jun 2019 - Dec 2019
 * Research Intern, **NEC Lab America**, Jun 2018 - Sep 2018
 
 
@@ -38,6 +37,14 @@ Check full list here at [Publications](https://junhenghao.github.io/publication)
 
 * Jiazhan Feng, Ruochen Xu, **Junheng Hao**, Hiteshi Sharma, Dongyan Zhao. [Language Models can be Logical Solvers](https://arxiv.org/abs/2311.06158) 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
 
+* **Junheng Hao**, Tong Zhao, Jin Li, Xin Luna Dong, Christos Faloutsos, Yizhou Sun and Wei Wang. "[P-Companion: A Principled Framework for Diversified Complementary Product Recommendation](https://dl.acm.org/doi/10.1145/3340531.3412732)". In the 29th ACM International Conference on Information and Knowledge Management (CIKM 2020), Applied Research Track. [\[Amazon Blog\]](https://www.amazon.science/blog/improving-complementary-product-recommendations)
+
+* **Junheng Hao**, Chelsea J.-T. Ju, Muhao Chen, Yizhou Sun, Carlo Zaniolo and Wei Wang. "[Bio-JOIE: Joint Representation Learning of Biological Knowledge Bases](https://dl.acm.org/doi/10.1145/3388440.3412477)". In the 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2020, <span style="color:red"> Best Student Paper Award</span>). [\[UCLA CS News\]](https://www.cs.ucla.edu/paper-from-ucla-scalable-analytics-institute-wins-best-student-paper-award-at-acm-bcb-2020/) 
+
+* **Junheng Hao**, Muhao Chen, Wenchao Yu, Yizhou Sun, Wei Wang. "[Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](https://dl.acm.org/citation.cfm?id=3330838)". In the 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019.
+
 ## Contact
-junhenghao@microsoft.com, haojh.ucla@gmail.com (Personal)
+[Linkedin](https://www.linkedin.com/in/jhaoucla/)
+junhenghao@microsoft.com
+haojh.ucla@gmail.com (Personal)
 <!-- <p>Feel free to <a href="/contact/">contact me</a>.</p> -->
