@@ -13,6 +13,10 @@ Here is a list of selected publications and technical reports:
 
 * Microsoft GenAI Team. [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://export.arxiv.org/abs/2404.14219), 2024. Read more: [Blog: Tiny but mighty: The Phi-3 small language models with big potential](https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/?ocid=FY24_soc_omc_br_li_Phi3) [Phi-3 Model Release](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/) <span>&#8618;</span> Try our models here! <span>&#x1F917;</span>[Phi-3.5-mini-instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) <span>&#x1F917;</span>[Phi-3-mini-4k-instruct](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct) <span>&#x1F917;</span>[Phi-3-small-8k-instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) <span>&#x1F917;</span>[Phi-3-medium-128k-instruct](https://huggingface.co/microsoft/Phi-3-medium-128k-instruct)
 
+* Yubo Ma, **Junheng Hao**, Ruochen Xu, Shuohang Wang, Zhibin Gou, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Hassan Awadalla, Weizhu Chen. [SciAgent: A Tool-augmented LLM for Scientific Reasoning](https://arxiv.org/abs/2402.11451) The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+
+* Jiazhan Feng, Ruochen Xu, **Junheng Hao**, Hiteshi Sharma, Dongyan Zhao. [Language Models can be Logical Solvers](https://arxiv.org/abs/2311.06158) 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
+
 
 * **Junheng Hao**, Lu-An Tang, Yizhou Sun, Zhengzhang Chen, Haifeng Chen, Junghwan Rhee, Zhichun Li and Wei Wang. "[Multi-source Inductive Knowledge Graph Transfer](https://2022.ecmlpkdd.org/)". To appear in Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2022.
 
