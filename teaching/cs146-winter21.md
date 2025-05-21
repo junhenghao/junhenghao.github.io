@@ -21,7 +21,7 @@ title: CS M146 (Winter 2021) Discussion Materials
 
 ## TA Info
 
-* TA: [Junheng Hao](https://www.haojunheng.com/)
+* TA: [Junheng Hao](/index.md)
 
 * TA office hours: Monday 3-5PM (US Pacific/Los Angeles)
 
@@ -77,14 +77,14 @@ title: CS M146 (Winter 2021) Discussion Materials
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
-| Jan. 8 | Course logistics and overview. Math review: [\[Probability\]](http://cs229.stanford.edu/section/cs229-prob.pdf), [\[Linear Algebra\]](http://cs229.stanford.edu/section/cs229-linalg.pdf), [\[Optimization 1\]](http://cs229.stanford.edu/section/cs229-cvxopt.pdf), [\[Optimization 2\]](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf), [\[Math essentials from UW\]](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf) | [Week 1](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week1.pdf), [Week 1 (Math)](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week1_Math_Summary.pdf)|
-| Jan. 15 | Decision trees, nearest neighbors and linear classification. Programning Prep. | [Week 2](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week2.pdf), [Colab Demo](https://www.haojunheng.com/files/cs146-w21/csm146_colab_prep.zip) |
-| Jan. 22 | Perceptron, Logistic Regression, Linear Models, Optimization | [Week 3](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week3.pdf) |
-| Jan. 29 | Logistic Regression, Linear Regression | [Week 4](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week4.pdf) |
-| Feb. 5  | Overfitting and regularization, Neural Nets (Part I) | [Week 5](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week5.pdf) |
-| Feb. 12  | Neural Nets (Part II), Learning theory, Kernels, PyTorch | [Week 6](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6.pdf), [Week 6 PyTorch](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6_PyTorch.pdf) |
-| Feb. 19  | SVM [\[SVM Notes from Stanford\]](https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf), [\[SVM Slides from NYU\]](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture6.pdf) | [Week 7](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week7.pdf) |
-| Feb. 26  | Ensemble Method, Multi-Class Classification, ML Evaluation | [Week 8](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week8.pdf) |
-| Mar. 5   | Naive bayes, Clustering (K-means, GMM) | [Week 9](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week9.pdf)|
-| Mar. 12  | PCA, HMM, Final Q&A | [Week 10](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week10.pdf) |
-| Mar. 14  | Final exam preparation and practice (Practice exam and solution available on CCLE)  | [Discussion slides collection](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Collection.pdf) |
+| Jan. 8 | Course logistics and overview. Math review: [\[Probability\]](http://cs229.stanford.edu/section/cs229-prob.pdf), [\[Linear Algebra\]](http://cs229.stanford.edu/section/cs229-linalg.pdf), [\[Optimization 1\]](http://cs229.stanford.edu/section/cs229-cvxopt.pdf), [\[Optimization 2\]](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf), [\[Math essentials from UW\]](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf) | [Week 1](/assets/files/cs146-w21/CSM146Dis1C_Week1.pdf), [Week 1 (Math)](/assets/files/cs146-w21/CSM146Dis1C_Week1_Math_Summary.pdf)|
+| Jan. 15 | Decision trees, nearest neighbors and linear classification. Programning Prep. | [Week 2](/assets/files/cs146-w21/CSM146Dis1C_Week2.pdf), [Colab Demo](/assets/files/cs146-w21/csm146_colab_prep.zip) |
+| Jan. 22 | Perceptron, Logistic Regression, Linear Models, Optimization | [Week 3](/assets/files/cs146-w21/CSM146Dis1C_Week3.pdf) |
+| Jan. 29 | Logistic Regression, Linear Regression | [Week 4](/assets/files/cs146-w21/CSM146Dis1C_Week4.pdf) |
+| Feb. 5  | Overfitting and regularization, Neural Nets (Part I) | [Week 5](/assets/files/cs146-w21/CSM146Dis1C_Week5.pdf) |
+| Feb. 12  | Neural Nets (Part II), Learning theory, Kernels, PyTorch | [Week 6](/assets/files/cs146-w21/CSM146Dis1C_Week6.pdf), [Week 6 PyTorch](/assets/files/cs146-w21/CSM146Dis1C_Week6_PyTorch.pdf) |
+| Feb. 19  | SVM [\[SVM Notes from Stanford\]](https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf), [\[SVM Slides from NYU\]](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture6.pdf) | [Week 7](/assets/files/cs146-w21/CSM146Dis1C_Week7.pdf) |
+| Feb. 26  | Ensemble Method, Multi-Class Classification, ML Evaluation | [Week 8](/assets/files/cs146-w21/CSM146Dis1C_Week8.pdf) |
+| Mar. 5   | Naive bayes, Clustering (K-means, GMM) | [Week 9](/assets/files/cs146-w21/CSM146Dis1C_Week9.pdf)|
+| Mar. 12  | PCA, HMM, Final Q&A | [Week 10](/assets/files/cs146-w21/CSM146Dis1C_Week10.pdf) |
+| Mar. 14  | Final exam preparation and practice (Practice exam and solution available on CCLE)  | [Discussion slides collection](/assets/files/cs146-w21/CSM146Dis1C_Collection.pdf) |
