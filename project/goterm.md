@@ -19,4 +19,4 @@ The widespread of coronavirus has led to a worldwide pandemic with a high mortal
 
 **Date:** September, 2020
 
-**Links:** [ACM Library](https://dl.acm.org/doi/10.1145/3388440.3412477), [PDF](https://www.haojunheng.com/files/pubs/BCB20_BioJOIE.pdf), [Video](https://drive.google.com/file/d/1izGjpfyqVxmBdmdLPof7QfxdNQefoRhY/view?usp=sharing), [Slides](https://www.haojunheng.com/files/pubs/BCB20_BioJOIE_Slides.pdf). Dataset and code are available [here](https://www.dropbox.com/sh/odwwjbc9fbed3y2/AADvKvu2w6Rcju6DOihQcBa_a?dl=0).
+**Links:** [ACM Library](https://dl.acm.org/doi/10.1145/3388440.3412477), [PDF](/assets/files/pubs/BCB20_BioJOIE.pdf), [Video](https://drive.google.com/file/d/1izGjpfyqVxmBdmdLPof7QfxdNQefoRhY/view?usp=sharing), [Slides](/assets/files/pubs/BCB20_BioJOIE_Slides.pdf). Dataset and code are available [here](https://www.dropbox.com/sh/odwwjbc9fbed3y2/AADvKvu2w6Rcju6DOihQcBa_a?dl=0).

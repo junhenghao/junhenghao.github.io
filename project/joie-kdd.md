@@ -20,5 +20,5 @@ Many large-scale knowledge bases simultaneously represent two views of knowledge
 
 **Date:** August, 2019
 
-**Links:** [Paper (ACM Library)](https://dl.acm.org/citation.cfm?id=3330838), [PDF](https://www.haojunheng.com/files/pubs/KDD19-JOIE.pdf), [Github](https://github.com/JunhengH/joie-kdd19), [Video](https://youtu.be/krJP6Lpa4so), [Slides](https://www.haojunheng.com/files/pubs/KDD19-JOIE-Presentation.pdf), [Poster](https://www.haojunheng.com/files/pubs/KDD19-JOIE-Poster.pdf)
+**Links:** [Paper (ACM Library)](https://dl.acm.org/citation.cfm?id=3330838), [PDF](/assets/files/pubs/KDD19-JOIE.pdf), [Github](https://github.com/JunhengH/joie-kdd19), [Video](https://youtu.be/krJP6Lpa4so), [Slides](/assets/files/pubs/KDD19-JOIE-Presentation.pdf), [Poster](/assets/files/pubs/KDD19-JOIE-Poster.pdf)
 
