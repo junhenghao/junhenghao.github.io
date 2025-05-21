@@ -10,9 +10,9 @@ Medical ontologies are widely used to describe and organize medical terminologie
 
 ## Modeling
 
-{{< figure library="true" src="project/medto_system.png" title="Fig 1: MEDTO workflow" lightbox="true">}}
+{{< figure library="true" src="/assets/img/project/medto_system.png" title="Fig 1: MEDTO workflow" lightbox="true">}}
 
-{{< figure library="true" src="project/medto_ontognn.png" title="Fig 2: MEDTO matching module" lightbox="true">}}
+{{< figure library="true" src="/assets/img/project/medto_ontognn.png" title="Fig 2: MEDTO matching module" lightbox="true">}}
 
 ## More Info
 
