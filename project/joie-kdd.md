@@ -11,8 +11,8 @@ Many large-scale knowledge bases simultaneously represent two views of knowledge
 
 ## Modeling
 
-{{< figure library="true" src="/assets/img/project/kdd19-joie-twoview.png" title="Fig 1: An example of two-view KB. Regular metarelations and hierarchical meta-relations are denoted as orange and black dashed lines respectively in the ontology view." lightbox="true">}}
-
+<!-- {{< figure library="true" src="/assets/img/project/kdd19-joie-twoview.png" title="Fig 1: An example of two-view KB. Regular metarelations and hierarchical meta-relations are denoted as orange and black dashed lines respectively in the ontology view." lightbox="true">}} -->
+<img src="/assets/img/project/kdd19-joie-twoview.png" alt="Fig 1: An example of two-view KB. Regular metarelations and hierarchical meta-relations are denoted as orange and black dashed lines respectively in the ontology view." style="display: block; margin-left: auto; margin-right: auto;">
 
 ## More Info
 

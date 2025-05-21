@@ -11,7 +11,9 @@ The widespread of coronavirus has led to a worldwide pandemic with a high mortal
 
 ## Modeling
 
-{{< figure library="true" src="project/bio-joie.png" title="Data formulation and model architecture." lightbox="true">}}
+<!-- {{< figure library="true" src="/assets/img/project/bio-joie.png" title="Data formulation and model architecture." lightbox="true">}} -->
+
+<img src="/assets/img/project/bio-joie.png" alt="Data formulation and model architecture." style="display: block; margin-left: auto; margin-right: auto;">
 
 ## More Info
 
