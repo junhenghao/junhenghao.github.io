@@ -1,13 +1,16 @@
 ---
 layout: default
 title: Publications
+permalink: /publication/
 ---
 
 # Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=GL1yyoEAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=GL1yyoEAAAAJ&hl=en) (2000+ citations as of 05/12/2025)
 
-Here is a list of selected publications and technical reports:
+**Read more on the story about the development of Phi Model Family [here](/phi.md).** 
+
+A list of selected publications and technical reports:
 
 * Microsoft GenAI Team. [Phi-4-mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs](https://arxiv.org/abs/2503.01743), 2025. Read more: [Phi-4-Mini Model Release](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family/) Try our models here! <span>&#8618;</span> <span>&#x1F917;</span>[Phi-4-mini-instruct](https://huggingface.co/microsoft/Phi-4-mini-instruct)
 
