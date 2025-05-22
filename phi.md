@@ -11,15 +11,18 @@ permalink: /phi/
 * **\[02/26/2025\]** Try the latest members in the Phi family: <span>&#x1F917;</span>[Phi-4-mini](https://huggingface.co/microsoft/Phi-4-mini-instruct) and <span>&#x1F917;</span>[Phi-4-multimodal](https://huggingface.co/microsoft/Phi-4-multimodal-instruct)! Read more <span>&#8594;</span> [Empowering innovation: The next generation of the Phi family](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family/) and our [techinical report](https://arxiv.org/abs/2503.01743).
 
 **Phi-4 & Reasoning Series**
+
 | | Phi-4 Models |  Phi-4-mini Models | Phi-4-multimodal Model |
 |:------- |:-------|:-------|:-------|
 | Base | <span>&#x1F917;</span>[Phi-4](https://huggingface.co/microsoft/phi-4) | <span>&#x1F917;</span>[Phi-4-mini](https://huggingface.co/microsoft/Phi-4-mini-instruct) | <span>&#x1F917;</span>[Phi-4-multimodal](https://huggingface.co/microsoft/Phi-4-multimodal-instruct) | 
-| Reasoning | <span>&#x1F917;</span>[Phi-4-reasoning](https://huggingface.co/microsoft/Phi-4-reasoning),  <span>&#x1F917;</span>[Phi-4-reasoning-plus](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |  <span>&#x1F917;</span>[Phi-4-mini-reasoning](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |  |
+| Reasoning | <span>&#x1F917;</span>[Phi-4-reasoning](https://huggingface.co/microsoft/Phi-4-reasoning), <span>&#x1F917;</span>[Phi-4-reasoning-plus](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |  <span>&#x1F917;</span>[Phi-4-mini-reasoning](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |  |
 
 ## Phi-3 Family: Various sizes and context lengths, improved Phi-3.5 with MoE and vision
+
 * **\[08/22/2024\]** Welcome <span>&#x1F917;</span>[Phi-3.5-mini](https://huggingface.co/microsoft/Phi-3.5-mini-instruct), Phi-3.5-vision, Phi-3.5-MoE, latest release as Phi-3.5 series SLMs! Read more <span>&#8594;</span> [Discover the New Multi-Lingual, High-Quality Phi-3.5 SLMs](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/4225280) and our latest [technical report](https://export.arxiv.org/abs/2404.14219).
 
 **Phi-3.5 Series**
+
 | Base |  MoE  |     Vision |
 |:-------|:-------| :------------------------|
 | <span>&#x1F917;</span>[Phi-3.5-mini](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) | <span>&#x1F917;</span>[Phi-3.5-MoE](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct) | <span>&#x1F917;</span>[Phi-3.5-vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct) |
@@ -27,6 +30,7 @@ permalink: /phi/
 * **\[04/23/2024\]** Today we're launching the first publicly available small language model from our [Phi-3 family](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3) of open models, coming in mini, small and medium three sizes and 4k/8k and 128k context lengths. Try start with the most popular (top download) [Phi-3-mini-4k-instruct](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct) and [Phi-3-mini-128k-instruct](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)! Read more <span>&#8594;</span> [Tiny but mighty: The Phi-3 small language models with big potential](https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/?ocid=FY24_soc_omc_br_li_Phi3)
 
 **Phi-3 Series**
+
 | Name |  Model  |           Model (Long-Context) |
 |:-------|:-------| :------------------------|
 | Mini (3.8B) | <span>&#x1F917;</span>[Phi-3-mini-4k-instruct](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct) | <span>&#x1F917;</span>[Phi-3-mini-128k-instruct](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct) | 
