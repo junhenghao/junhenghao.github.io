@@ -10,7 +10,7 @@ title: Junheng Hao
 ---
 <img src="/assets/img/newself.jpg" alt="Profile Picture" width="200">
 
-I am currently a researcher at Microsoft, working on LLM ([Phi-3](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/4225280),[Phi-4-mini](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family/), GPT, etc) training and customization. Prior to this, I obtained my Ph.D from University of California Los Angeles (UCLA), advised by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](https://web.cs.ucla.edu/~weiwang/) at [Scalable Analytics Institute (ScAi)](https://scai.cs.ucla.edu/) and [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/index.html) in Department of Computer Science. Before coming to UCLA, I graduated in 2017 from Department of [Automation](https://www.au.tsinghua.edu.cn/), School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am currently a researcher at Microsoft, working on LLM ([Phi-3](/phi.md), GPT, etc) training and customization. Prior to this, I obtained my Ph.D from University of California Los Angeles (UCLA), advised by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](https://web.cs.ucla.edu/~weiwang/) at [Scalable Analytics Institute (ScAi)](https://scai.cs.ucla.edu/) and [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/index.html) in Department of Computer Science. Before coming to UCLA, I graduated in 2017 from Department of [Automation](https://www.au.tsinghua.edu.cn/), School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 <!-- <p>You can find more information about my <a href="/publication/">publications</a> and <a href="/teaching/">projects</a>.  -->
 
@@ -24,6 +24,13 @@ I am currently a researcher at Microsoft, working on LLM ([Phi-3](https://techco
 * PhD Research Intern, **IBM Research AI**, Jun 2020 - Sep 2020
 * Applied Scientist Intern, **Amazon**, Jun 2019 - Dec 2019
 * Research Intern, **NEC Lab America**, Jun 2018 - Sep 2018
+
+## Research Interests
+* Large language model ([Phi](/phi.md), GPT-4o) Training: Pre-training, Post-training, RLHF, etc
+* Systematic data strategies for LLM: data selection and synthetic data generation
+* Customized LLM development: Domain-specific LLM, Reasoning/Coding
+* LLM + Knowledge Graph (KG)
+* LLM benchmarking and evaluation
 
 ## News & Blogs 
 * \[05/01/2025\] Celebrations on one-year milestone of Phi! Blog <span>&#8594;</span> [One year of Phi: Small language models making big leaps in AI](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/)

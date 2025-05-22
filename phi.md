@@ -17,6 +17,10 @@ permalink: /phi/
 | Base | <span>&#x1F917;</span>[Phi-4](https://huggingface.co/microsoft/phi-4) | <span>&#x1F917;</span>[Phi-4-mini](https://huggingface.co/microsoft/Phi-4-mini-instruct) | <span>&#x1F917;</span>[Phi-4-multimodal](https://huggingface.co/microsoft/Phi-4-multimodal-instruct) | 
 | Reasoning | <span>&#x1F917;</span>[Phi-4-reasoning](https://huggingface.co/microsoft/Phi-4-reasoning), <span>&#x1F917;</span>[Phi-4-reasoning-plus](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |  <span>&#x1F917;</span>[Phi-4-mini-reasoning](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |  |
 
+## Phi-Silica: On-device SLM on Windows 11 Copilot+ PCs 
+* **\[04/25/2024\]** Expanding on the breakthrough efficiencies of [Phi Silica](https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica), vision-based multimodal capabilities are added to unlock new possibilities for local SLMs on Windows. Blog <span>&#8594;</span> [Enabling multimodal functionality for Phi Silica](https://blogs.windows.com/windowsexperience/2025/04/25/enabling-multimodal-functionality-for-phi-silica/)
+* **\[12/6/2024\]** Based on a Cyber-EO compliant derivative of Phi-3.5-mini, Phi-Silica is developed specifically for Windows 11 with multilingual support and on-device rewrite and summarize support in Word and Outlook. Specially about one of the post-training steps for alignment on safety and responsible AI, Phi Silica is derived has undergone a five stage ‘break-fix’ methodology similar to the one outlined in our technical report [Phi-3 Safety Post-Training: Aligning Language Models with a “Break-Fix” Cycle](https://arxiv.org/abs/2407.13833). Blog <span>&#8594;</span> [Phi Silica, small but mighty on-device SLM](https://blogs.windows.com/windowsexperience/2024/12/06/phi-silica-small-but-mighty-on-device-slm/).
+
 ## Phi-3 Family: Various sizes and context lengths, improved Phi-3.5 with MoE and vision
 
 * **\[08/22/2024\]** Welcome <span>&#x1F917;</span>[Phi-3.5-mini](https://huggingface.co/microsoft/Phi-3.5-mini-instruct), Phi-3.5-vision, Phi-3.5-MoE, latest release as Phi-3.5 series SLMs! Read more <span>&#8594;</span> [Discover the New Multi-Lingual, High-Quality Phi-3.5 SLMs](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/4225280) and our latest [technical report](https://export.arxiv.org/abs/2404.14219).
@@ -39,4 +43,4 @@ permalink: /phi/
 
 ## Phi-1 Family: Era of small language models, MVP for high-quality textbook data
 * **\[10/02/2023\]** Updated version of [Phi-1.5](https://huggingface.co/microsoft/phi-1_5) was released, trained with augmented with a new data source that consists of various NLP synthetic texts. Read the technical report here: [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
-* **\[06/20/2023\]** The first Phi model named <span>&#x1F917;</span>[Phi-1] with 1.3B parameters was released. 
+* **\[06/20/2023\]** The first Phi model named <span>&#x1F917;</span>[Phi-1](https://huggingface.co/microsoft/phi-1) with 1.3B parameters was released. 
