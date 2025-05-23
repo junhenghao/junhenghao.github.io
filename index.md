@@ -59,5 +59,5 @@ Check full list here at [Publications](/publication) and [Google Scholar](https:
 * **Junheng Hao**, Muhao Chen, Wenchao Yu, Yizhou Sun, Wei Wang. "[Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](https://dl.acm.org/citation.cfm?id=3330838)". In the 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019.
 
 ## Contact
-Email: [junhenghao@microsoft.com]((mailto:junhenghao@microsoft.com)) (Microsoft) [haojh.ucla@gmail.com](mailto:haojh.ucla@gmail.com) (Personal)
+[LinkedIn](https://www.linkedin.com/in/jhaoucla/) / Email: [haojh.ucla@gmail.com](mailto:haojh.ucla@gmail.com)
 <!-- <p>Feel free to <a href="/contact/">contact me</a>.</p> -->
