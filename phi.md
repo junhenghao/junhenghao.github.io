@@ -4,9 +4,10 @@ title: Phi
 permalink: /phi/
 ---
 
-# A story of SLM - Roadmap of Phi Model Family
+# A story of SLM: Roadmap of Phi Model Family
 
 ## Phi-4 Family: Moving forward and more on reasoning
+* **\[05/192025\]** [Phi-4-mini](https://huggingface.co/microsoft/Phi-4-mini-instruct), as a small language model that excels at text-based tasks, providing high accuracy in a compact form, has been built into Edge browser for Prompt API and Writing Assistance APIs. Blog <span>&#8594;</span> [Simplified access to AI in Microsoft Edge](https://blogs.windows.com/msedgedev/2025/05/19/introducing-the-prompt-and-writing-assistance-apis/?user_id=67f3f84f6abb76033cd591d4&sn_type=LINKEDIN&cpost_id=682b9af719eb291191dc80fa&post_id=100007940800559&asset_id=ADVOCACY_205_682b97c1f930a4013428bd03)
 * **\[05/01/2025\]** Celebrations on one-year milestone of Phi with Phi-reasoning versions! Blog <span>&#8594;</span> [One year of Phi: Small language models making big leaps in AI](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/) and [technical report](https://arxiv.org/abs/2504.21233). 
 * **\[02/26/2025\]** Try the latest members in the Phi family: <span>&#x1F917;</span>[Phi-4-mini](https://huggingface.co/microsoft/Phi-4-mini-instruct) and <span>&#x1F917;</span>[Phi-4-multimodal](https://huggingface.co/microsoft/Phi-4-multimodal-instruct)! Read more <span>&#8594;</span> [Empowering innovation: The next generation of the Phi family](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family/) and our [techinical report](https://arxiv.org/abs/2503.01743).
 
@@ -17,8 +18,8 @@ permalink: /phi/
 | Base | <span>&#x1F917;</span>[Phi-4](https://huggingface.co/microsoft/phi-4) | <span>&#x1F917;</span>[Phi-4-mini](https://huggingface.co/microsoft/Phi-4-mini-instruct) | <span>&#x1F917;</span>[Phi-4-multimodal](https://huggingface.co/microsoft/Phi-4-multimodal-instruct) | 
 | Reasoning | <span>&#x1F917;</span>[Phi-4-reasoning](https://huggingface.co/microsoft/Phi-4-reasoning), <span>&#x1F917;</span>[Phi-4-reasoning-plus](https://huggingface.co/microsoft/Phi-4-reasoning-plus) |  <span>&#x1F917;</span>[Phi-4-mini-reasoning](https://huggingface.co/microsoft/Phi-4-mini-reasoning) |  |
 
-## Phi-Silica: On-device SLM on Windows 11 Copilot+ PCs 
-* **\[04/25/2024\]** Expanding on the breakthrough efficiencies of [Phi Silica](https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica), vision-based multimodal capabilities are added to unlock new possibilities for local SLMs on Windows. Blog <span>&#8594;</span> [Enabling multimodal functionality for Phi Silica](https://blogs.windows.com/windowsexperience/2025/04/25/enabling-multimodal-functionality-for-phi-silica/)
+## Phi-Silica: On-device SLM on Windows 11 Copilot+ PCs
+* **\[04/25/2025\]** Expanding on the breakthrough efficiencies of [Phi Silica](https://learn.microsoft.com/en-us/windows/ai/apis/phi-silica), vision-based multimodal capabilities are added to unlock new possibilities for local SLMs on Windows. Blog <span>&#8594;</span> [Enabling multimodal functionality for Phi Silica](https://blogs.windows.com/windowsexperience/2025/04/25/enabling-multimodal-functionality-for-phi-silica/)
 * **\[12/6/2024\]** Based on a Cyber-EO compliant derivative of Phi-3.5-mini, Phi-Silica is developed specifically for Windows 11 with multilingual support and on-device rewrite and summarize support in Word and Outlook. Specially about one of the post-training steps for alignment on safety and responsible AI, Phi Silica is derived has undergone a five stage ‘break-fix’ methodology similar to the one outlined in our technical report [Phi-3 Safety Post-Training: Aligning Language Models with a “Break-Fix” Cycle](https://arxiv.org/abs/2407.13833). Blog <span>&#8594;</span> [Phi Silica, small but mighty on-device SLM](https://blogs.windows.com/windowsexperience/2024/12/06/phi-silica-small-but-mighty-on-device-slm/).
 
 ## Phi-3 Family: Various sizes and context lengths, improved Phi-3.5 with MoE and vision
