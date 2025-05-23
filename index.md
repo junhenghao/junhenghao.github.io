@@ -10,7 +10,7 @@ title: Junheng Hao
 ---
 <img src="/assets/img/newself.jpg" alt="Profile Picture" width="200">
 
-I am currently a researcher at Microsoft, working on LLM ([Phi-3](/phi.md), GPT, etc) training and customization. Prior to this, I obtained my Ph.D from University of California Los Angeles (UCLA), advised by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](https://web.cs.ucla.edu/~weiwang/) at [Scalable Analytics Institute (ScAi)](https://scai.cs.ucla.edu/) and [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/index.html) in Department of Computer Science. Before coming to UCLA, I graduated in 2017 from Department of [Automation](https://www.au.tsinghua.edu.cn/), School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/). More about me: [Resume](/assets/files/junheng_hao_resume.pdf)/[CV](/assets/files/junheng_hao_cv.pdf) 
+I am currently a researcher at Microsoft, working on LLM ([Phi-3](/phi), GPT, etc) training and customization. Prior to this, I obtained my Ph.D from University of California Los Angeles (UCLA), advised by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](https://web.cs.ucla.edu/~weiwang/) at [Scalable Analytics Institute (ScAi)](https://scai.cs.ucla.edu/) and [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/index.html) in Department of Computer Science. Before coming to UCLA, I graduated in 2017 from Department of [Automation](https://www.au.tsinghua.edu.cn/), School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/). More about me: [Resume](/assets/files/junheng_hao_resume.pdf)/[CV](/assets/files/junheng_hao_cv.pdf) 
 
 <!-- <p>You can find more information about my <a href="/publication/">publications</a> and <a href="/teaching/">projects</a>.  -->
 
@@ -26,7 +26,7 @@ I am currently a researcher at Microsoft, working on LLM ([Phi-3](/phi.md), GPT,
 * Research Intern, **NEC Lab America**, Jun 2018 - Sep 2018
 
 ## Research Interests
-* Large language model ([Phi](/phi.md), GPT-4o) Training: Pre-training, Post-training, RLHF, etc
+* Large language model ([Phi](/phi), GPT-4o) Training: Pre-training, Post-training, RLHF, etc
 * Systematic data strategies for LLM: data selection and synthetic data generation
 * Customized LLM development: Domain-specific LLM, Reasoning/Coding
 * LLM + Knowledge Graph (KG)
@@ -38,11 +38,11 @@ I am currently a researcher at Microsoft, working on LLM ([Phi-3](/phi.md), GPT,
 * \[10/01/2024\] A new collaboration and milestone for customized AI model to accelerate world-wide AI innovation with [KT](https://news.microsoft.com/source/2024/09/29/kt-corporation-and-microsoft-take-giant-step-to-accelerate-ai-innovation-in-korea/) and [G42](https://news.microsoft.com/source/2024/09/17/another-important-step-in-advancing-responsible-ai-to-serve-the-world/)! 
 * \[08/22/2024\] Welcome <span>&#x1F917;</span>[Phi-3.5-mini](https://huggingface.co/microsoft/Phi-3.5-mini-instruct), Phi-3.5-vision, Phi-3.5-MoE, latest release as Phi-3.5 series SLMs! Read more: [Discover the New Multi-Lingual, High-Quality Phi-3.5 SLMs](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/4225280) and our latest [technical report](https://export.arxiv.org/abs/2404.14219).
 * \[04/23/2024\] Today we're launching the first publicly available small language model from our [Phi-3 family](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3) of open models, coming in mini, small and medium three sizes and 4k/8k and 128k context lengths. Try start with <span>&#x1F917;</span>[Phi-3-mini-4k-instruct](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct) and <span>&#x1F917;</span>[Phi-3-mini-128k-instruct](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)! Read more: [Tiny but mighty: The Phi-3 small language models with big potential](https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/?ocid=FY24_soc_omc_br_li_Phi3)
-* More stories about the [roadmap](/phi.md) of [Phi model collection](https://ai.azure.com/explore/models?selectedCollection=phi)! 
+* More stories about the [roadmap](/phi) of [Phi model collection](https://ai.azure.com/explore/models?selectedCollection=phi)! 
 
 
 ## Selected Publications
-Check full list here at [Publications](/publication.md) and [Google Scholar](https://scholar.google.com/citations?user=GL1yyoEAAAAJ&hl=en)
+Check full list here at [Publications](/publication) and [Google Scholar](https://scholar.google.com/citations?user=GL1yyoEAAAAJ&hl=en)
 
 * Microsoft GenAI Team. [Phi-4-mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs](https://arxiv.org/abs/2503.01743), 2025. Read more: [Phi-4-Mini Model Release](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family/)
 
