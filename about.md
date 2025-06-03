@@ -8,7 +8,7 @@ permalink: /about/
 <img src="/assets/img/newself.jpg" alt="Profile Picture" width="250">
 
 ##  Bio
-Junheng Hao is currently a researcher/member of technical staff at Microsoft, working on LLM ([Phi-3](/phi), GPT, etc) training and customization. Prior to this, he obtained my Ph.D from University of California Los Angeles (UCLA), advised by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](https://web.cs.ucla.edu/~weiwang/) at [Scalable Analytics Institute (ScAi)](https://scai.cs.ucla.edu/) and [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/index.html) in Department of Computer Science. Before coming to UCLA, he graduated in 2017 from Department of [Automation](https://www.au.tsinghua.edu.cn/), School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+Junheng Hao is currently a researcher/member of technical staff at Microsoft, working on LLM ([Phi-3](/phi), GPT, etc) training and customization. Prior to this, he obtained Ph.D from University of California Los Angeles (UCLA), advised by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](https://web.cs.ucla.edu/~weiwang/) at [Scalable Analytics Institute (ScAi)](https://scai.cs.ucla.edu/) and [UCLA Data Mining Lab](https://ucla-dm.github.io/DM_website/index.html) in Department of Computer Science. Before coming to UCLA, he graduated in 2017 from Department of [Automation](https://www.au.tsinghua.edu.cn/), School of Information Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 [Resume](/assets/files/junheng_hao_resume.pdf)/[CV](/assets/files/junheng_hao_cv.pdf)  
 
